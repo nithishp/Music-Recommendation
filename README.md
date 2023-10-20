@@ -8,13 +8,10 @@ This project is a music recommendation system that uses a decision tree algorith
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
 - [Decision Tree Algorithm](#decision-tree-algorithm)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
